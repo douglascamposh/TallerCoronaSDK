@@ -1,1 +1,4 @@
-Bienvenido al taller de Sofia Villazon para Intersys - Noviembre 2012
+====
+Bienvenido al taller sobre Corona SDK para Intersys 2012
+
+Noviembre 2012
